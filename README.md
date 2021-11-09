@@ -1,1 +1,2 @@
-octosam-flexeraone
+
+Prototype Extractor Configuration for Flexera One
